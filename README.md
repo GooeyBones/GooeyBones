@@ -1,4 +1,4 @@
-- 👋 Hi, my name is David Austin and I'm fresh to the software development/ computer programming line of work.
+- 👋 Hi, I'm fresh to the software development/ computer programming line of work.
 
 - 👀 In my free time, you'll find me working on something artistic. Recently, I've been dabbling in Blender and Unity to bring some characters to life in VRChat!
 If I play a game, it's usually some sort of sim like Cities Skylines or Mechwarrior.
@@ -7,7 +7,6 @@ If I play a game, it's usually some sort of sim like Cities Skylines or Mechwarr
 node and API's along the way.
 
 - 📫 You can email me at somegeek76@yahoo.com. 
-- My linkdin: https://www.linkedin.com/in/david-austin-05654a169/. 
 - Also check out my progress on freeCodeCamp where I like to brush up on previously learned subjects: https://www.freecodecamp.org/GooeyBonez
 
 <!---
